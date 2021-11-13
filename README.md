@@ -2,13 +2,9 @@
 Repositório para o trabalho final de Frame e API do Senac 2021_02
 
 
-# Foobar
-
-Foobar is a Python library for dealing with word pluralization.
-
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package npm to install dependencies
 
 ```bash
 npm init -y
